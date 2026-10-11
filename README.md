@@ -155,4 +155,4 @@ Halo, Moudy 👋
 
 ## Live Demo
 
-https://moudy-laravel9.infy.click
+🌐 [Buka Website Tugas Rutin 9 - Laravel Setup](https://moudy-laravel9.infy.click)

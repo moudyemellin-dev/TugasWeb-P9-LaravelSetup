@@ -156,11 +156,3 @@ Halo, Moudy 👋
 ## Live Demo
 
 https://moudy-laravel9.infy.click
-
-## Repository GitHub
-
-https://github.com/moudyemellin-dev/TugasWeb-P9-LaravelSetup
-
----
-
-**Tugas Rutin 9 - Pemrograman Web**

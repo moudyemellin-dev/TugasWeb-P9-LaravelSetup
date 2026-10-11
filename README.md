@@ -37,6 +37,7 @@ Project ini dibuat untuk memenuhi **Tugas Rutin 9 Pemrograman Web** menggunakan 
 
 ```bash
 clone https://github.com/moudyemellin-dev/TugasWeb-P9-LaravelSetup.git
+```
 
 ## Live Demo
 

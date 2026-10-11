@@ -1,6 +1,6 @@
 # Tugas Rutin 9 - Laravel Setup
 
-Project ini dibuat untuk memenuhi **Tugas Rutin 9 Pemrograman Web** menggunakan Laravel.
+Project ini dibuat untuk memenuhi **Tugas Rutin 9 Pemrograman Web** menggunakan framework Laravel.
 
 ## Identitas
 
@@ -36,8 +36,7 @@ Project ini dibuat untuk memenuhi **Tugas Rutin 9 Pemrograman Web** menggunakan 
 1. Clone repository:
 
 ```bash
-clone https://github.com/moudyemellin-dev/TugasWeb-P9-LaravelSetup.git
-```
+git clone https://github.com/moudyemellin-dev/TugasWeb-P9-LaravelSetup.git
 
 ## Live Demo
 
